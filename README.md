@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A Computer Science Undergrad at Delhi Technological University (2020-2024)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya13902&label=Profile%20views&color=0e75b6&style=flat" alt="aditya13902" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya13902&label=Profile%20views&color=0e75b6&style=flat" alt="aditya13902" /> </p> -->
 
 - 🌱 I’m currently learning **Nodejs**
 
