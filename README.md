@@ -6,7 +6,7 @@
 - 💬 Ask me about **React, Flask, Competitive Coding**
 
 - 📫 How to reach me **adityakumark139@gmail.com**
-<iframe src="https://giphy.com/embed/BemKqR9RDK4V2" width="480" height="287" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/japan-jet-alt-BemKqR9RDK4V2">via GIPHY</a></p>
+<img src="https://giphy.com/embed/BemKqR9RDK4V2" width="480" height="287" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
